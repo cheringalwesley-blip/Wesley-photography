@@ -1,0 +1,40 @@
+VERSION 2 — SIMPLE PHOTO REPLACEMENT
+====================================
+
+You do NOT need to change image code.
+
+HOW TO ADD YOUR PHOTOS
+1. Open this website folder in Finder.
+2. Open the images folder.
+3. Replace the existing placeholder image with your own photo.
+4. Your photo must have the exact same filename.
+5. Choose Replace when your Mac asks.
+6. Refresh Safari with Command + R.
+
+HOMEPAGE:
+Replace images/hero.jpeg with your own JPEG named hero.jpeg
+
+ABOUT:
+Replace images/about.jpg with your portrait named about.jpg
+
+TRAVEL:
+Replace the files inside images/travel:
+travel-1.jpg through travel-6.jpg
+
+EVENTS:
+Replace the files inside images/events:
+event-1.jpg through event-6.jpg
+
+EDITORIAL:
+Replace editorial-1.jpg through editorial-6.jpg
+
+The homepage category cards automatically use:
+travel-1.jpg
+event-1.jpg
+editorial-1.jpg
+
+IMPORTANT:
+Do not delete or rename the folders.
+Do not change the filenames.
+Use your own images with the same exact names.
+Dragging and replacing pictures saves automatically.
